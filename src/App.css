@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.app {
+  text-align: center;
+}
+.add-user-btn {
+  padding: 2em 0;
+}
